@@ -1,0 +1,21 @@
+R version 3.3.3 (2017-03-06)
+Platform: x86_64-apple-darwin13.4.0 (64-bit)
+Running under: macOS Sierra 10.12.6
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+attached base packages:
+[1] grid      stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] rgdal_1.2-7     maps_3.1.1      ggmap_2.6.1     maptools_0.9-2  sp_1.2-4        bindrcpp_0.2    gridExtra_2.2.1 broom_0.4.2    
+ [9] reshape2_1.4.2  ggplot2_2.2.1   dplyr_0.7.4     tidyr_0.7.2    
+
+loaded via a namespace (and not attached):
+ [1] Rcpp_0.12.14      plyr_1.8.4        bindr_0.1         tools_3.3.3       digest_0.6.13     tibble_1.3.4      nlme_3.1-131     
+ [8] gtable_0.2.0      lattice_0.20-34   pkgconfig_2.0.1   png_0.1-7         rlang_0.1.2       psych_1.7.3.21    mapproj_1.2-4    
+[15] parallel_3.3.3    proto_1.0.0       stringr_1.2.0     rgeos_0.3-23      RgoogleMaps_1.4.1 tidyselect_0.2.2  glue_1.2.0       
+[22] R6_2.2.2          jpeg_0.1-8        foreign_0.8-67    purrr_0.2.4       magrittr_1.5      scales_0.4.1      assertthat_0.2.0 
+[29] mnormt_1.5-5      colorspace_1.3-2  geosphere_1.5-5   labeling_0.3      stringi_1.1.5     lazyeval_0.2.0    munsell_0.4.3    
+[36] rjson_0.2.15

@@ -1,0 +1,481 @@
+gcam_lty,agg_lty
+CornAEZ1,Non-Energy Crops
+CornAEZ10,Non-Energy Crops
+CornAEZ11,Non-Energy Crops
+CornAEZ12,Non-Energy Crops
+CornAEZ13,Non-Energy Crops
+CornAEZ14,Non-Energy Crops
+CornAEZ15,Non-Energy Crops
+CornAEZ16,Non-Energy Crops
+CornAEZ17,Non-Energy Crops
+CornAEZ18,Non-Energy Crops
+CornAEZ2,Non-Energy Crops
+CornAEZ3,Non-Energy Crops
+CornAEZ4,Non-Energy Crops
+CornAEZ5,Non-Energy Crops
+CornAEZ6,Non-Energy Crops
+CornAEZ7,Non-Energy Crops
+CornAEZ8,Non-Energy Crops
+CornAEZ9,Non-Energy Crops
+FiberCropAEZ1,Non-Energy Crops
+FiberCropAEZ10,Non-Energy Crops
+FiberCropAEZ11,Non-Energy Crops
+FiberCropAEZ12,Non-Energy Crops
+FiberCropAEZ13,Non-Energy Crops
+FiberCropAEZ14,Non-Energy Crops
+FiberCropAEZ15,Non-Energy Crops
+FiberCropAEZ16,Non-Energy Crops
+FiberCropAEZ17,Non-Energy Crops
+FiberCropAEZ18,Non-Energy Crops
+FiberCropAEZ2,Non-Energy Crops
+FiberCropAEZ3,Non-Energy Crops
+FiberCropAEZ4,Non-Energy Crops
+FiberCropAEZ5,Non-Energy Crops
+FiberCropAEZ6,Non-Energy Crops
+FiberCropAEZ7,Non-Energy Crops
+FiberCropAEZ8,Non-Energy Crops
+FiberCropAEZ9,Non-Energy Crops
+FodderGrassAEZ1,Non-Energy Crops
+FodderGrassAEZ10,Non-Energy Crops
+FodderGrassAEZ11,Non-Energy Crops
+FodderGrassAEZ12,Non-Energy Crops
+FodderGrassAEZ13,Non-Energy Crops
+FodderGrassAEZ14,Non-Energy Crops
+FodderGrassAEZ15,Non-Energy Crops
+FodderGrassAEZ16,Non-Energy Crops
+FodderGrassAEZ17,Non-Energy Crops
+FodderGrassAEZ18,Non-Energy Crops
+FodderGrassAEZ2,Non-Energy Crops
+FodderGrassAEZ3,Non-Energy Crops
+FodderGrassAEZ4,Non-Energy Crops
+FodderGrassAEZ5,Non-Energy Crops
+FodderGrassAEZ6,Non-Energy Crops
+FodderGrassAEZ7,Non-Energy Crops
+FodderGrassAEZ8,Non-Energy Crops
+FodderGrassAEZ9,Non-Energy Crops
+FodderHerbAEZ1,Non-Energy Crops
+FodderHerbAEZ10,Non-Energy Crops
+FodderHerbAEZ11,Non-Energy Crops
+FodderHerbAEZ12,Non-Energy Crops
+FodderHerbAEZ13,Non-Energy Crops
+FodderHerbAEZ14,Non-Energy Crops
+FodderHerbAEZ15,Non-Energy Crops
+FodderHerbAEZ16,Non-Energy Crops
+FodderHerbAEZ17,Non-Energy Crops
+FodderHerbAEZ18,Non-Energy Crops
+FodderHerbAEZ2,Non-Energy Crops
+FodderHerbAEZ3,Non-Energy Crops
+FodderHerbAEZ4,Non-Energy Crops
+FodderHerbAEZ5,Non-Energy Crops
+FodderHerbAEZ6,Non-Energy Crops
+FodderHerbAEZ7,Non-Energy Crops
+FodderHerbAEZ8,Non-Energy Crops
+FodderHerbAEZ9,Non-Energy Crops
+ForestAEZ1,Commercial Forest
+ForestAEZ10,Commercial Forest
+ForestAEZ11,Commercial Forest
+ForestAEZ12,Commercial Forest
+ForestAEZ13,Commercial Forest
+ForestAEZ14,Commercial Forest
+ForestAEZ15,Commercial Forest
+ForestAEZ16,Commercial Forest
+ForestAEZ17,Commercial Forest
+ForestAEZ18,Commercial Forest
+ForestAEZ2,Commercial Forest
+ForestAEZ3,Commercial Forest
+ForestAEZ4,Commercial Forest
+ForestAEZ5,Commercial Forest
+ForestAEZ6,Commercial Forest
+ForestAEZ7,Commercial Forest
+ForestAEZ8,Commercial Forest
+ForestAEZ9,Commercial Forest
+GrasslandAEZ1,Grassland
+GrasslandAEZ10,Grassland
+GrasslandAEZ11,Grassland
+GrasslandAEZ12,Grassland
+GrasslandAEZ13,Grassland
+GrasslandAEZ14,Grassland
+GrasslandAEZ15,Grassland
+GrasslandAEZ16,Grassland
+GrasslandAEZ17,Grassland
+GrasslandAEZ18,Grassland
+GrasslandAEZ2,Grassland
+GrasslandAEZ3,Grassland
+GrasslandAEZ4,Grassland
+GrasslandAEZ5,Grassland
+GrasslandAEZ6,Grassland
+GrasslandAEZ7,Grassland
+GrasslandAEZ8,Grassland
+GrasslandAEZ9,Grassland
+MiscCropAEZ1,Non-Energy Crops
+MiscCropAEZ10,Non-Energy Crops
+MiscCropAEZ11,Non-Energy Crops
+MiscCropAEZ12,Non-Energy Crops
+MiscCropAEZ13,Non-Energy Crops
+MiscCropAEZ14,Non-Energy Crops
+MiscCropAEZ15,Non-Energy Crops
+MiscCropAEZ16,Non-Energy Crops
+MiscCropAEZ17,Non-Energy Crops
+MiscCropAEZ18,Non-Energy Crops
+MiscCropAEZ2,Non-Energy Crops
+MiscCropAEZ3,Non-Energy Crops
+MiscCropAEZ4,Non-Energy Crops
+MiscCropAEZ5,Non-Energy Crops
+MiscCropAEZ6,Non-Energy Crops
+MiscCropAEZ7,Non-Energy Crops
+MiscCropAEZ8,Non-Energy Crops
+MiscCropAEZ9,Non-Energy Crops
+OilCropAEZ1,Non-Energy Crops
+OilCropAEZ10,Non-Energy Crops
+OilCropAEZ11,Non-Energy Crops
+OilCropAEZ12,Non-Energy Crops
+OilCropAEZ13,Non-Energy Crops
+OilCropAEZ14,Non-Energy Crops
+OilCropAEZ15,Non-Energy Crops
+OilCropAEZ16,Non-Energy Crops
+OilCropAEZ17,Non-Energy Crops
+OilCropAEZ18,Non-Energy Crops
+OilCropAEZ2,Non-Energy Crops
+OilCropAEZ3,Non-Energy Crops
+OilCropAEZ4,Non-Energy Crops
+OilCropAEZ5,Non-Energy Crops
+OilCropAEZ6,Non-Energy Crops
+OilCropAEZ7,Non-Energy Crops
+OilCropAEZ8,Non-Energy Crops
+OilCropAEZ9,Non-Energy Crops
+OtherArableLandAEZ1,Non-Energy Crops
+OtherArableLandAEZ10,Non-Energy Crops
+OtherArableLandAEZ11,Non-Energy Crops
+OtherArableLandAEZ12,Non-Energy Crops
+OtherArableLandAEZ13,Non-Energy Crops
+OtherArableLandAEZ14,Non-Energy Crops
+OtherArableLandAEZ15,Non-Energy Crops
+OtherArableLandAEZ16,Non-Energy Crops
+OtherArableLandAEZ17,Non-Energy Crops
+OtherArableLandAEZ18,Non-Energy Crops
+OtherArableLandAEZ2,Non-Energy Crops
+OtherArableLandAEZ3,Non-Energy Crops
+OtherArableLandAEZ4,Non-Energy Crops
+OtherArableLandAEZ5,Non-Energy Crops
+OtherArableLandAEZ6,Non-Energy Crops
+OtherArableLandAEZ7,Non-Energy Crops
+OtherArableLandAEZ8,Non-Energy Crops
+OtherArableLandAEZ9,Non-Energy Crops
+OtherGrainAEZ1,Non-Energy Crops
+OtherGrainAEZ10,Non-Energy Crops
+OtherGrainAEZ11,Non-Energy Crops
+OtherGrainAEZ12,Non-Energy Crops
+OtherGrainAEZ13,Non-Energy Crops
+OtherGrainAEZ14,Non-Energy Crops
+OtherGrainAEZ15,Non-Energy Crops
+OtherGrainAEZ16,Non-Energy Crops
+OtherGrainAEZ17,Non-Energy Crops
+OtherGrainAEZ18,Non-Energy Crops
+OtherGrainAEZ2,Non-Energy Crops
+OtherGrainAEZ3,Non-Energy Crops
+OtherGrainAEZ4,Non-Energy Crops
+OtherGrainAEZ5,Non-Energy Crops
+OtherGrainAEZ6,Non-Energy Crops
+OtherGrainAEZ7,Non-Energy Crops
+OtherGrainAEZ8,Non-Energy Crops
+OtherGrainAEZ9,Non-Energy Crops
+PalmFruitAEZ1,Non-Energy Crops
+PalmFruitAEZ10,Non-Energy Crops
+PalmFruitAEZ11,Non-Energy Crops
+PalmFruitAEZ12,Non-Energy Crops
+PalmFruitAEZ13,Non-Energy Crops
+PalmFruitAEZ14,Non-Energy Crops
+PalmFruitAEZ15,Non-Energy Crops
+PalmFruitAEZ16,Non-Energy Crops
+PalmFruitAEZ17,Non-Energy Crops
+PalmFruitAEZ18,Non-Energy Crops
+PalmFruitAEZ2,Non-Energy Crops
+PalmFruitAEZ3,Non-Energy Crops
+PalmFruitAEZ4,Non-Energy Crops
+PalmFruitAEZ5,Non-Energy Crops
+PalmFruitAEZ6,Non-Energy Crops
+PalmFruitAEZ7,Non-Energy Crops
+PalmFruitAEZ8,Non-Energy Crops
+PalmFruitAEZ9,Non-Energy Crops
+PastureAEZ1,Pasture
+PastureAEZ10,Pasture
+PastureAEZ11,Pasture
+PastureAEZ12,Pasture
+PastureAEZ13,Pasture
+PastureAEZ14,Pasture
+PastureAEZ15,Pasture
+PastureAEZ16,Pasture
+PastureAEZ17,Pasture
+PastureAEZ18,Pasture
+PastureAEZ2,Pasture
+PastureAEZ3,Pasture
+PastureAEZ4,Pasture
+PastureAEZ5,Pasture
+PastureAEZ6,Pasture
+PastureAEZ7,Pasture
+PastureAEZ8,Pasture
+PastureAEZ9,Pasture
+RiceAEZ1,Non-Energy Crops
+RiceAEZ10,Non-Energy Crops
+RiceAEZ11,Non-Energy Crops
+RiceAEZ12,Non-Energy Crops
+RiceAEZ13,Non-Energy Crops
+RiceAEZ14,Non-Energy Crops
+RiceAEZ15,Non-Energy Crops
+RiceAEZ16,Non-Energy Crops
+RiceAEZ17,Non-Energy Crops
+RiceAEZ18,Non-Energy Crops
+RiceAEZ2,Non-Energy Crops
+RiceAEZ3,Non-Energy Crops
+RiceAEZ4,Non-Energy Crops
+RiceAEZ5,Non-Energy Crops
+RiceAEZ6,Non-Energy Crops
+RiceAEZ7,Non-Energy Crops
+RiceAEZ8,Non-Energy Crops
+RiceAEZ9,Non-Energy Crops
+RockIceDesertAEZ1,"Rock, Ice, Desert"
+RockIceDesertAEZ10,"Rock, Ice, Desert"
+RockIceDesertAEZ11,"Rock, Ice, Desert"
+RockIceDesertAEZ12,"Rock, Ice, Desert"
+RockIceDesertAEZ13,"Rock, Ice, Desert"
+RockIceDesertAEZ14,"Rock, Ice, Desert"
+RockIceDesertAEZ15,"Rock, Ice, Desert"
+RockIceDesertAEZ16,"Rock, Ice, Desert"
+RockIceDesertAEZ17,"Rock, Ice, Desert"
+RockIceDesertAEZ18,"Rock, Ice, Desert"
+RockIceDesertAEZ2,"Rock, Ice, Desert"
+RockIceDesertAEZ3,"Rock, Ice, Desert"
+RockIceDesertAEZ4,"Rock, Ice, Desert"
+RockIceDesertAEZ5,"Rock, Ice, Desert"
+RockIceDesertAEZ6,"Rock, Ice, Desert"
+RockIceDesertAEZ7,"Rock, Ice, Desert"
+RockIceDesertAEZ8,"Rock, Ice, Desert"
+RockIceDesertAEZ9,"Rock, Ice, Desert"
+Root_TuberAEZ1,Non-Energy Crops
+Root_TuberAEZ10,Non-Energy Crops
+Root_TuberAEZ11,Non-Energy Crops
+Root_TuberAEZ12,Non-Energy Crops
+Root_TuberAEZ13,Non-Energy Crops
+Root_TuberAEZ14,Non-Energy Crops
+Root_TuberAEZ15,Non-Energy Crops
+Root_TuberAEZ16,Non-Energy Crops
+Root_TuberAEZ17,Non-Energy Crops
+Root_TuberAEZ18,Non-Energy Crops
+Root_TuberAEZ2,Non-Energy Crops
+Root_TuberAEZ3,Non-Energy Crops
+Root_TuberAEZ4,Non-Energy Crops
+Root_TuberAEZ5,Non-Energy Crops
+Root_TuberAEZ6,Non-Energy Crops
+Root_TuberAEZ7,Non-Energy Crops
+Root_TuberAEZ8,Non-Energy Crops
+Root_TuberAEZ9,Non-Energy Crops
+ShrublandAEZ1,Shrubland
+ShrublandAEZ10,Shrubland
+ShrublandAEZ11,Shrubland
+ShrublandAEZ12,Shrubland
+ShrublandAEZ13,Shrubland
+ShrublandAEZ14,Shrubland
+ShrublandAEZ15,Shrubland
+ShrublandAEZ16,Shrubland
+ShrublandAEZ17,Shrubland
+ShrublandAEZ18,Shrubland
+ShrublandAEZ2,Shrubland
+ShrublandAEZ3,Shrubland
+ShrublandAEZ4,Shrubland
+ShrublandAEZ5,Shrubland
+ShrublandAEZ6,Shrubland
+ShrublandAEZ7,Shrubland
+ShrublandAEZ8,Shrubland
+ShrublandAEZ9,Shrubland
+SugarCropAEZ1,Non-Energy Crops
+SugarCropAEZ10,Non-Energy Crops
+SugarCropAEZ11,Non-Energy Crops
+SugarCropAEZ12,Non-Energy Crops
+SugarCropAEZ13,Non-Energy Crops
+SugarCropAEZ14,Non-Energy Crops
+SugarCropAEZ15,Non-Energy Crops
+SugarCropAEZ16,Non-Energy Crops
+SugarCropAEZ17,Non-Energy Crops
+SugarCropAEZ18,Non-Energy Crops
+SugarCropAEZ2,Non-Energy Crops
+SugarCropAEZ3,Non-Energy Crops
+SugarCropAEZ4,Non-Energy Crops
+SugarCropAEZ5,Non-Energy Crops
+SugarCropAEZ6,Non-Energy Crops
+SugarCropAEZ7,Non-Energy Crops
+SugarCropAEZ8,Non-Energy Crops
+SugarCropAEZ9,Non-Energy Crops
+TundraAEZ1,Tundra
+TundraAEZ10,Tundra
+TundraAEZ11,Tundra
+TundraAEZ12,Tundra
+TundraAEZ13,Tundra
+TundraAEZ14,Tundra
+TundraAEZ15,Tundra
+TundraAEZ16,Tundra
+TundraAEZ17,Tundra
+TundraAEZ18,Tundra
+TundraAEZ2,Tundra
+TundraAEZ3,Tundra
+TundraAEZ4,Tundra
+TundraAEZ5,Tundra
+TundraAEZ6,Tundra
+TundraAEZ7,Tundra
+TundraAEZ8,Tundra
+TundraAEZ9,Tundra
+UnmanagedForestAEZ1,Non-commercial Forest
+UnmanagedForestAEZ10,Non-commercial Forest
+UnmanagedForestAEZ11,Non-commercial Forest
+UnmanagedForestAEZ12,Non-commercial Forest
+UnmanagedForestAEZ13,Non-commercial Forest
+UnmanagedForestAEZ14,Non-commercial Forest
+UnmanagedForestAEZ15,Non-commercial Forest
+UnmanagedForestAEZ16,Non-commercial Forest
+UnmanagedForestAEZ17,Non-commercial Forest
+UnmanagedForestAEZ18,Non-commercial Forest
+UnmanagedForestAEZ2,Non-commercial Forest
+UnmanagedForestAEZ3,Non-commercial Forest
+UnmanagedForestAEZ4,Non-commercial Forest
+UnmanagedForestAEZ5,Non-commercial Forest
+UnmanagedForestAEZ6,Non-commercial Forest
+UnmanagedForestAEZ7,Non-commercial Forest
+UnmanagedForestAEZ8,Non-commercial Forest
+UnmanagedForestAEZ9,Non-commercial Forest
+UnmanagedPastureAEZ1,Pasture
+UnmanagedPastureAEZ10,Pasture
+UnmanagedPastureAEZ11,Pasture
+UnmanagedPastureAEZ12,Pasture
+UnmanagedPastureAEZ13,Pasture
+UnmanagedPastureAEZ14,Pasture
+UnmanagedPastureAEZ15,Pasture
+UnmanagedPastureAEZ16,Pasture
+UnmanagedPastureAEZ17,Pasture
+UnmanagedPastureAEZ18,Pasture
+UnmanagedPastureAEZ2,Pasture
+UnmanagedPastureAEZ3,Pasture
+UnmanagedPastureAEZ4,Pasture
+UnmanagedPastureAEZ5,Pasture
+UnmanagedPastureAEZ6,Pasture
+UnmanagedPastureAEZ7,Pasture
+UnmanagedPastureAEZ8,Pasture
+UnmanagedPastureAEZ9,Pasture
+UrbanLandAEZ1,Urban
+UrbanLandAEZ10,Urban
+UrbanLandAEZ11,Urban
+UrbanLandAEZ12,Urban
+UrbanLandAEZ13,Urban
+UrbanLandAEZ14,Urban
+UrbanLandAEZ15,Urban
+UrbanLandAEZ16,Urban
+UrbanLandAEZ17,Urban
+UrbanLandAEZ18,Urban
+UrbanLandAEZ2,Urban
+UrbanLandAEZ3,Urban
+UrbanLandAEZ4,Urban
+UrbanLandAEZ5,Urban
+UrbanLandAEZ6,Urban
+UrbanLandAEZ7,Urban
+UrbanLandAEZ8,Urban
+UrbanLandAEZ9,Urban
+WheatAEZ1,Non-Energy Crops
+WheatAEZ10,Non-Energy Crops
+WheatAEZ11,Non-Energy Crops
+WheatAEZ12,Non-Energy Crops
+WheatAEZ13,Non-Energy Crops
+WheatAEZ14,Non-Energy Crops
+WheatAEZ15,Non-Energy Crops
+WheatAEZ16,Non-Energy Crops
+WheatAEZ17,Non-Energy Crops
+WheatAEZ18,Non-Energy Crops
+WheatAEZ2,Non-Energy Crops
+WheatAEZ3,Non-Energy Crops
+WheatAEZ4,Non-Energy Crops
+WheatAEZ5,Non-Energy Crops
+WheatAEZ6,Non-Energy Crops
+WheatAEZ7,Non-Energy Crops
+WheatAEZ8,Non-Energy Crops
+WheatAEZ9,Non-Energy Crops
+willowAEZ1,Bioenergy
+willowAEZ2,Bioenergy
+willowAEZ3,Bioenergy
+willowAEZ4,Bioenergy
+willowAEZ5,Bioenergy
+willowAEZ6,Bioenergy
+willowAEZ7,Bioenergy
+willowAEZ8,Bioenergy
+willowAEZ9,Bioenergy
+willowAEZ10,Bioenergy
+willowAEZ11,Bioenergy
+willowAEZ12,Bioenergy
+willowAEZ13,Bioenergy
+willowAEZ14,Bioenergy
+willowAEZ15,Bioenergy
+willowAEZ16,Bioenergy
+willowAEZ17,Bioenergy
+willowAEZ18,Bioenergy
+eucalyptusAEZ1,Bioenergy
+eucalyptusAEZ10,Bioenergy
+eucalyptusAEZ11,Bioenergy
+eucalyptusAEZ12,Bioenergy
+eucalyptusAEZ2,Bioenergy
+eucalyptusAEZ3,Bioenergy
+eucalyptusAEZ4,Bioenergy
+eucalyptusAEZ5,Bioenergy
+eucalyptusAEZ6,Bioenergy
+eucalyptusAEZ7,Bioenergy
+eucalyptusAEZ8,Bioenergy
+eucalyptusAEZ9,Bioenergy
+biomassAEZ1,Bioenergy
+biomassAEZ2,Bioenergy
+biomassAEZ3,Bioenergy
+biomassAEZ4,Bioenergy
+biomassAEZ5,Bioenergy
+biomassAEZ6,Bioenergy
+biomassAEZ7,Bioenergy
+biomassAEZ8,Bioenergy
+biomassAEZ9,Bioenergy
+biomassAEZ10,Bioenergy
+biomassAEZ11,Bioenergy
+biomassAEZ12,Bioenergy
+biomassAEZ13,Bioenergy
+biomassAEZ14,Bioenergy
+biomassAEZ15,Bioenergy
+biomassAEZ16,Bioenergy
+biomassAEZ17,Bioenergy
+biomassAEZ18,Bioenergy
+miscanthusAEZ1,Bioenergy
+miscanthusAEZ2,Bioenergy
+miscanthusAEZ3,Bioenergy
+miscanthusAEZ4,Bioenergy
+miscanthusAEZ5,Bioenergy
+miscanthusAEZ6,Bioenergy
+miscanthusAEZ7,Bioenergy
+miscanthusAEZ8,Bioenergy
+miscanthusAEZ9,Bioenergy
+miscanthusAEZ10,Bioenergy
+miscanthusAEZ11,Bioenergy
+miscanthusAEZ12,Bioenergy
+miscanthusAEZ13,Bioenergy
+miscanthusAEZ14,Bioenergy
+miscanthusAEZ15,Bioenergy
+miscanthusAEZ16,Bioenergy
+miscanthusAEZ17,Bioenergy
+miscanthusAEZ18,Bioenergy
+JatrophaAEZ1,Bioenergy
+JatrophaAEZ2,Bioenergy
+JatrophaAEZ3,Bioenergy
+JatrophaAEZ4,Bioenergy
+JatrophaAEZ5,Bioenergy
+JatrophaAEZ6,Bioenergy
+JatrophaAEZ7,Bioenergy
+JatrophaAEZ8,Bioenergy
+JatrophaAEZ9,Bioenergy
+JatrophaAEZ10,Bioenergy
+JatrophaAEZ11,Bioenergy
+JatrophaAEZ12,Bioenergy
+JatrophaAEZ13,Bioenergy
+JatrophaAEZ14,Bioenergy
+JatrophaAEZ15,Bioenergy
+JatrophaAEZ16,Bioenergy
+JatrophaAEZ17,Bioenergy
+JatrophaAEZ18,Bioenergy

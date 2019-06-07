@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v5 rel. 3 U (http://www.xmlspy.com) by Staff (PNNL) -->
+<queries>
+	<aQuery>
+		<region name="USA"/>
+		<region name="Canada"/>
+		<region name="Australia_NZ"/>
+		<region name="Western Europe"/>
+		<region name="Eastern Europe"/>
+		<region name="Former Soviet Union"/>
+		<region name="Japan"/>
+		<region name="Korea"/>
+		<region name="China"/>
+		<region name="India"/>
+		<region name="Southeast Asia"/>
+		<region name="Latin America"/>
+		<region name="Africa"/>
+		<region name="Middle East"/>
+      <query title="land">
+         <axis1 name="land-allocation">LandLeaf</axis1>
+         <axis2 name="Year">land-allocation[@year]</axis2>
+         <xPath buildList="true" dataName="land-allocation" group="false" sumAll="false">/LandNode[@name='root' or @type='LandNode' (: collapse :)]//land-allocation/text()</xPath>
+         <comments/>
+         
+      </query>
+	</aQuery>
+   
+   <aQuery>
+      <region name="USA"/>
+      <region name="Canada"/>
+      <region name="Australia_NZ"/>
+      <region name="Western Europe"/>
+      <region name="Eastern Europe"/>
+      <region name="Former Soviet Union"/>
+      <region name="Japan"/>
+      <region name="Korea"/>
+      <region name="China"/>
+      <region name="India"/>
+      <region name="Southeast Asia"/>
+      <region name="Latin America"/>
+      <region name="Africa"/>
+      <region name="Middle East"/>
+      <emissionsQueryBuilder title="ffi_co2">
+         <axis1 name="region">region</axis1>
+         <axis2 name="Year">emissions</axis2>
+         <xPath buildList="true" dataName="emissions" group="false" sumAll="false">*[@type = 'sector' (:collapse:)]//CO2/emissions/node()</xPath>
+         <comments/>
+      </emissionsQueryBuilder>
+   </aQuery>
+   
+   <aQuery>
+      <region name="USA"/>
+      <region name="Canada"/>
+      <region name="Australia_NZ"/>
+      <region name="Western Europe"/>
+      <region name="Eastern Europe"/>
+      <region name="Former Soviet Union"/>
+      <region name="Japan"/>
+      <region name="Korea"/>
+      <region name="China"/>
+      <region name="India"/>
+      <region name="Southeast Asia"/>
+      <region name="Latin America"/>
+      <region name="Africa"/>
+      <region name="Middle East"/>
+      <supplyDemandQuery title="ag_prod">
+         <axis1 name="technology">technology[@name]</axis1>
+         <axis2 name="Year">physical-output[@vintage]</axis2>
+         <xPath buildList="true" dataName="output" group="false" sumAll="false">*[@type='sector' and (exists(child::keyword/@supplysector) or local-name() = 'AgSupplySector' or @name='NonFoodDemand_Forest')]/*[@type = 'subsector']/*[@type = 'technology']/*[@type='output']/physical-output/node()</xPath>
+      </supplyDemandQuery>
+   </aQuery>
+   <aQuery>
+      <region name="USA"/>
+      <region name="Canada"/>
+      <region name="Australia_NZ"/>
+      <region name="Western Europe"/>
+      <region name="Eastern Europe"/>
+      <region name="Former Soviet Union"/>
+      <region name="Japan"/>
+      <region name="Korea"/>
+      <region name="China"/>
+      <region name="India"/>
+      <region name="Southeast Asia"/>
+      <region name="Latin America"/>
+      <region name="Africa"/>
+      <region name="Middle East"/>
+      
+      <supplyDemandQuery title="yield">
+         <axis1 name="technology">technology</axis1>
+         <axis2 name="Year">technology</axis2>
+         <xPath buildList="true" dataName="yield" group="false" sumAll="false">*[@type = 'sector']/*[@type = 'subsector']/*[@type = 'technology']/yield/text()</xPath>
+      </supplyDemandQuery>
+   </aQuery>
+    
+</queries>
