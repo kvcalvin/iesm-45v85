@@ -38,17 +38,17 @@ d.land$reg_ID <- reg_map$GCAM_region_ID[ match( d.land$region, reg_map$region ) 
 # find scale for Non-commercial Forest
 temp <- subset( d.land, category == "Non-commercial Forest" & scen_name %in% c("RCP45_Coupled", "RCP85_Coupled") )
 max_y <- max( abs( temp$difference ) )
-temp <- subset( d.land, category == "Non-Energy Crops" & scen_name %in% c("RCp35_Coupled", "RCP85_Coupled"))
+temp <- subset( d.land, category == "Non-Energy Crops" & scen_name %in% c("RCP45_Coupled", "RCP85_Coupled"))
 max_y_crops <- max( abs( temp$difference ) )
 
 # RCP45 Forest Maps
 map.data <- subset( d.land, category == "Non-commercial Forest" & scen_name == "RCP45_Coupled")
-GCAM_MAPDATA$rcp45_difference <- map.data[ match(paste( GCAM_MAPDATA$GRIDCODE, GCAM_MAPDATA$GCAM_reg_3 ),
+GCAM_MAPDATA$rcp45_forest <- map.data[ match(paste( GCAM_MAPDATA$GRIDCODE, GCAM_MAPDATA$GCAM_reg_3 ),
                                             paste( map.data$AEZ, map.data$reg_ID )), "difference" ] 
 map.data <- na.omit( map.data )
 my_colors <- c( '#8e0152','#c51b7d','#de77ae','#f1b6da','#fde0ef','#f7f7f7','#e6f5d0','#b8e186','#7fbc41','#4d9221','#276419' )
 leg.title <- expression( paste( "million ", km^2, sep="" ))
-p1 <- ggplot( GCAM_MAPDATA ) + geom_polygon( aes(long, lat, group=group, fill=GCAM_MAPDATA[,"rcp45_difference"])) + 
+p1 <- ggplot( GCAM_MAPDATA ) + geom_polygon( aes(long, lat, group=group, fill=GCAM_MAPDATA[,"rcp45_forest"])) + 
   scale_fill_gradientn( colours = my_colors, limits=c( -max_y, max_y ),
                         na.value="white", name=leg.title )  +
   theme( plot.title = element_text(face="bold", size=14), 
@@ -68,11 +68,11 @@ plot(p1)
 
 # RCP85 Forest Maps
 map.data <- subset( d.land, category == "Non-commercial Forest" & scen_name == "RCP85_Coupled")
-GCAM_MAPDATA$rcp85_difference <- map.data[match(paste( GCAM_MAPDATA$GRIDCODE, GCAM_MAPDATA$GCAM_reg_3 ),
+GCAM_MAPDATA$rcp85_forest <- map.data[match(paste( GCAM_MAPDATA$GRIDCODE, GCAM_MAPDATA$GCAM_reg_3 ),
                                           paste( map.data$AEZ, map.data$reg_ID )), "difference" ] 
 map.data <- na.omit( map.data )
 leg.title <- expression( paste( "million ", km^2, sep="" ))
-p2 <- ggplot( GCAM_MAPDATA ) + geom_polygon( aes(long, lat, group=group, fill=GCAM_MAPDATA[,"rcp85_difference"])) + 
+p2 <- ggplot( GCAM_MAPDATA ) + geom_polygon( aes(long, lat, group=group, fill=GCAM_MAPDATA[,"rcp85_forest"])) + 
   scale_fill_gradientn( colours = my_colors, limits=c( -max_y, max_y ),
                         na.value="white", name=leg.title )  +
   theme( plot.title = element_text(face="bold", size=14), 
@@ -92,12 +92,12 @@ plot(p2)
 
 # RCP45 Cropland Maps
 map.data <- subset( d.land, category == "Non-Energy Crops" & scen_name == "RCP45_Coupled")
-GCAM_MAPDATA$rcp35_difference <- map.data[ match(paste( GCAM_MAPDATA$GRIDCODE, GCAM_MAPDATA$GCAM_reg_3 ),
+GCAM_MAPDATA$rcp45_crop <- map.data[ match(paste( GCAM_MAPDATA$GRIDCODE, GCAM_MAPDATA$GCAM_reg_3 ),
                                                  paste( map.data$AEZ, map.data$reg_ID )), "difference" ] 
 map.data <- na.omit( map.data )
 my_colors <- c( '#8e0152','#c51b7d','#de77ae','#f1b6da','#fde0ef','#f7f7f7','#e6f5d0','#b8e186','#7fbc41','#4d9221','#276419' )
 leg.title <- expression( paste( "million ", km^2, sep="" ))
-p3 <- ggplot( GCAM_MAPDATA ) + geom_polygon( aes(long, lat, group=group, fill=GCAM_MAPDATA[,"rcp45_difference"])) + 
+p3 <- ggplot( GCAM_MAPDATA ) + geom_polygon( aes(long, lat, group=group, fill=GCAM_MAPDATA[,"rcp45_crop"])) + 
   scale_fill_gradientn( colours = my_colors, limits=c( -max_y_crops, max_y_crops ),
                         na.value="white", name=leg.title )  +
   theme( plot.title = element_text(face="bold", size=14), 
@@ -117,11 +117,11 @@ plot(p3)
 
 # RCP85 Cropland Maps
 map.data <- subset( d.land, category == "Non-Energy Crops" & scen_name == "RCP85_Coupled")
-GCAM_MAPDATA$rcp85_difference <- map.data[match(paste( GCAM_MAPDATA$GRIDCODE, GCAM_MAPDATA$GCAM_reg_3 ),
+GCAM_MAPDATA$rcp85_crop <- map.data[match(paste( GCAM_MAPDATA$GRIDCODE, GCAM_MAPDATA$GCAM_reg_3 ),
                                                 paste( map.data$AEZ, map.data$reg_ID )), "difference" ] 
 map.data <- na.omit( map.data )
 leg.title <- expression( paste( "million ", km^2, sep="" ))
-p4 <- ggplot( GCAM_MAPDATA ) + geom_polygon( aes(long, lat, group=group, fill=GCAM_MAPDATA[,"rcp85_difference"])) + 
+p4 <- ggplot( GCAM_MAPDATA ) + geom_polygon( aes(long, lat, group=group, fill=GCAM_MAPDATA[,"rcp85_crop"])) + 
   scale_fill_gradientn( colours = my_colors, limits=c( -max_y_crops, max_y_crops ),
                         na.value="white", name=leg.title )  +
   theme( plot.title = element_text(face="bold", size=14), 
@@ -140,5 +140,5 @@ p4 <- p4 + ggtitle( "Crops (Coupled85 - Uncoupled85)") + coord_equal()
 plot(p4)
 
 jpeg( paste("Figure4_Map_Land_Delta_", map_year, ".jpg", sep=""), units="in", width = 12, height = 6, res=500)
-multiplot( p1, p2, p3, p4, cols=2 )
+multiplot( p1, p3, p2, p4, cols=2 )
 dev.off()
